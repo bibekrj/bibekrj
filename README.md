@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! I am Bibek.  I am a Graduate Research Assistant and Student Software Development Lead at Wright State University, Dayton, Ohio. <br>I am currently working on Graph Neural Networks and Adversarial Machine Learning, and Discord Bot sometimes. <br>Python is my choice of weaponry. I also do JS, Java, and C# if forced to :P<br>
+Hello World! I am Bibek.  I am a Graduate Research Assistant and Student Software Development Lead at Wright State University, Dayton, Ohio. <br>I am currently working on Graph Neural Networks and Adversarial Machine Learning. When I am not working on my research, I am leading the Wright State University's Computer Science Department @CSE-devteam, tinkering on my RasPI Homelab, or helping students containerize their stack on the department's high-performance computing cluster.
 
 
 ## 🌐 Socials:
